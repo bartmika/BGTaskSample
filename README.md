@@ -1,13 +1,13 @@
 # README
 
-This is a sample code demonstrating how to use Apple's Background Tasks for iOS.
+This is a sample code demonstrating how to use Apple's Background Tasks for iOS 15, Swift 5 and SwiftUI.
 
 ## Instructions
 How to run this code.
 
 1. Clone project.
 
-2. Start project with your physical device
+2. Start project with your physical device. (Do not use simulator!)
 
 3. When running, click pause.
 
